@@ -1,0 +1,40 @@
+{
+    "allUsers": [
+        {
+            "fullName": "Anannya Saikia",
+            "email": "anannyasaikia@gmail.com",
+            "password": "anannya@2023",
+            "id": 1
+        },
+        {
+            "fullName": "Amit Ballal",
+            "email": "amitballal@gmail.com",
+            "password": "amit@2023",
+            "id": 2
+        },
+        {
+            "fullName": "Saurav Wakde",
+            "email": "sauravwakre@gmail.com",
+            "password": "saurav@2023",
+            "id": 3
+        },
+        {
+            "fullName": "Ranjeet Masai",
+            "email": "ranjeetmasai@gmail.com",
+            "password": "ranjeet@2023",
+            "id": 1
+        },
+        {
+            "fullName": "Ankita Saikia",
+            "email": "ankitasaikia@gmail.com",
+            "password": "ankita@2023",
+            "id": 4
+        },
+        {
+            "fullName": "Ankit Dev",
+            "email": "ankitdev@gmail.com",
+            "password": "ankit@2023",
+            "id": 5
+        }
+    ]
+}
